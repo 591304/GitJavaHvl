@@ -18,6 +18,14 @@ public class Oppg3 {
 		x = scnr.nextDouble();
 		
 		System.out.println("x^n = " + Math.pow(x, n));
+		
+		
+		while (x != 0) {
+			
+			System.out.println("Ved bruk av while, x^n = " + Math.pow(x, n));
+			break;
+			
+		}
 
 	}
 

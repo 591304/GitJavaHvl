@@ -8,8 +8,6 @@ public class Oppg6 {
 		int n;
 		int x = 1;
 		
-		
-		
 		Scanner scnr = new Scanner(System.in);
 		System.out.println("Skriv et heltall, n: ");
 		n = scnr.nextInt();
